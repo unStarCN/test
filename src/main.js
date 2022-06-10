@@ -1,9 +1,12 @@
 import Vue from 'vue'
 // import App from './App.vue'
-import App from './components/day1/01-test.vue'
+// import App from './components/day1/01-test.vue'
+// import App from './components/day1/02-插值.vue'
+// import App from './components/day1//05-v-module使用.vue'
+import App from './components/day1/practice.vue'
 
 // 引入样式文件
-import './styles/style.css'
+import './styles/reset.css'
 Vue.config.productionTip = false
 
 new Vue({
