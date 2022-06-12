@@ -37,6 +37,9 @@
               <a href="javascipt:;" @click="del(value.id, $event)">删除</a>
             </td>
           </tr>
+          <tr v-show="brandList.length == 0">
+            <td colspan="6">没有数据, 请先添加</td>
+          </tr>
         </tbody>
       </table>
     </div>
