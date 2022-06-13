@@ -6,7 +6,8 @@ import Vue from 'vue'
 // import App from './components/day1/practice.vue'
 // import App from './components/day2/03-practice.vue'
 // import App from './components/day2/04-test.vue'
-import App from './components/day2/05-fliter使用.vue'
+// import App from './components/day2/05-fliter使用.vue'
+import App from './components/day03/03-father.vue'
 
 // 引入样式文件
 import './styles/reset.css'
